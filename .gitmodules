@@ -1,0 +1,3 @@
+[submodule "plebtools"]
+	path = plebtools
+	url = git@github.com:PlebeiusGaragicus/plebtools.git
